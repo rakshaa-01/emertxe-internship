@@ -3,10 +3,10 @@
 
 Simulates the home automation system on the PICSIMLAB simulator and uses the Blynk IoT application to control the devices. Also, controls the lights, temperature of the home, inflow and outflow of water in the water tank.
 
-## Components
+> ## Components
  ![comp](https://user-images.githubusercontent.com/97796804/218394172-2e64b3ee-ae22-42d7-9ee7-bfe7b7b8473a.JPG)
 
-## Business Benifits
+> ## Business Benifits
 **(a) Saves Energy:**
 
 By turning ON and OFF the equipment at the scheduled times, energy is saved.
@@ -23,7 +23,7 @@ Managing all the devices in one place improves efficiency to a great extent.
 
 Provides valuable data from which one can manage one’s energy consumption.
 
-## Connection Diagram
+> ## Connection Diagram
 ![cnxn](https://user-images.githubusercontent.com/97796804/218395858-1e1e4cc8-ea42-4d39-ab9b-cb98603b9938.JPG)
 
 __(I) Garden Lights Control:__
@@ -47,5 +47,5 @@ __(III) Water Tank Control:__
   <img width="400" src="https://user-images.githubusercontent.com/97796804/218399027-8412df3b-42bc-49a7-8efb-10004de775a3.JPG">
 </p>
 
-## App Screenshots
+> ## App Screenshots
 ![shots](https://user-images.githubusercontent.com/97796804/218400839-1d8b1dbb-3e27-4c09-85ea-b0049fa8c73a.JPG)
